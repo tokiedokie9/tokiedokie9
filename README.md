@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Duke 👋
+## 👋 Hi there, I'm Duke
 
 I'm a **lawyer** who codes and an **AI enthusiast** passionate about the future where **law meets technology**.
 
