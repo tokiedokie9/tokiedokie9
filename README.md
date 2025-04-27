@@ -59,6 +59,7 @@ I'm always open to collaborating with developers, lawyers, and entrepreneurs who
 ---
 
 > *"Cathedra mea, regulae meae -- my chair, my rules."* — Sheldon Cooper 🚀
+![K4IZ](https://github.com/user-attachments/assets/eee0ed86-15df-4c73-8d47-5b7b90fa52c9)
 
 <!--
 **tokiedokie9/tokiedokie9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
