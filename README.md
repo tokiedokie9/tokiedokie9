@@ -10,6 +10,7 @@ I'm a **lawyer** who codes and an **AI enthusiast** passionate about the future 
 - 🖥️ Self-taught coder diving into **Python**, **JavaScript**, **Golang**, and **AI development**.
 - ⚖️ Working on LegalTech projects: smart contracts, compliance automation, and AI-powered legal tools.
 - 📚 Lifelong learner passionate about bridging law, technology, and ethics.
+- 🐾 Proud human of **Truffles**, an adorable **Italian Greyhound** who keeps me company during late-night coding sessions.
 
 ---
 
@@ -40,6 +41,7 @@ I'm a **lawyer** who codes and an **AI enthusiast** passionate about the future 
 - 📄 Automated contract drafting and review tools
 - 🧠 Training mini-LLMs for legal-specific tasks
 - 🌐 Knowledge management systems for law firms
+- 🚀 Building efficient APIs and microservices with **Golang**
 
 ---
 
